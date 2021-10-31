@@ -5,7 +5,8 @@
     text-align: justify;
     text-align: center;
     padding-left: 30px;
-    border-radius: 10px;
+    border-radius: 20px;
+    box-shadow: 30px;
     
 }
 .button{
@@ -17,4 +18,19 @@
 .buy{
     color: chocolate;
     background-color: cyan;
+}
+.hello{
+    padding-right: 99%;
+    padding: 20px;
+    text-align: justify;
+    
+}
+.hey{
+    padding-left: 90%;
+    color: crimson;
+    cursor: auto;
+}
+.laptop{
+    padding-top: 90px;
+
 }
