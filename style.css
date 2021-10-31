@@ -5,5 +5,16 @@
     text-align: justify;
     text-align: center;
     padding-left: 30px;
+    border-radius: 10px;
     
+}
+.button{
+    margin-left: 12px;
+}
+.color-bg{
+    background-color: rgb(172, 115, 164);
+}
+.buy{
+    color: chocolate;
+    background-color: cyan;
 }
